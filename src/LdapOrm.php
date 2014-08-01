@@ -1,12 +1,12 @@
-<?php namespace Makamo\Ldap_Orm;
+<?php namespace LdapOrm;
 
 /*
- * LDAP ORM is Licensed under the Creative Commons Attribution 3.0 license
+ * LdapOrm is Licensed under the Creative Commons Attribution 3.0 license
  * http://creativecommons.org/licenses/by/3.0/us/
  */
 
 /**
- * LDAP is a class that enhances the built in LDAP commands in
+ * LdapOrm is a class that enhances the built in LdapOrm commands in
  *
  * @author       Brad Vernon <bradbury.vernon@gmail.com>
  * @category     LDAP
@@ -14,7 +14,7 @@
  *
  */
 
-class Ldap_Orm {
+class LdapOrm {
 
 
     /**
