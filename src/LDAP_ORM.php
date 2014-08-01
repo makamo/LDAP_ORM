@@ -1,4 +1,4 @@
-<?php
+<?php namespace Makamo\Ldap_Orm;
 
 /*
  * LDAP ORM is Licensed under the Creative Commons Attribution 3.0 license
@@ -14,7 +14,7 @@
  *
  */
 
-class LDAP_ORM {
+class Ldap_Orm {
 
 
     /**
